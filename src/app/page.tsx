@@ -1,9 +1,6 @@
 import Image from "next/image";
 import profile from "../..image/Ai.jpeg"
 import Footer from "@/components/footer";
-// import Footer from "./components/footer";
-// import Navbar from "./components/navbar";
-// import Hero from  "./components/hero";
 import Navbar from "@/components/navbar";
 
 

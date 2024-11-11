@@ -1,4 +1,4 @@
-import { navItem } from "../constant"
+import { navItem } from "../portfolio/Constant"
 
 
 
