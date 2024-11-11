@@ -14,7 +14,10 @@ export default function Header(){
             </div>
             <nav className=" h-[44.54px] ">
             <ul className="flex h-full w-full items-center justify-between gap-[46px]  text-[#75C310] text-[20px] font-medium">
-            
+                <li>Home</li>
+                <li>About</li>
+                <li>portfolio</li>
+                <li>contant</li>
              </ul>
             
             </nav>
