@@ -1,7 +1,6 @@
 import Image from "next/image";
-import profile from "../..image/Ai.jpeg"
+import Header from "@/components/Header";
 import Footer from "@/components/footer";
-import Navbar from "@/components/navbar";
 
 
   export default function Home() {
@@ -10,8 +9,7 @@ import Navbar from "@/components/navbar";
     <div>
    
     <h1 className="text-center pt-5 text-[24px]">RABIA</h1>
-
-   <Navbar />
+<Header />
 
    
    <div className="content flex justify-around">
@@ -32,7 +30,7 @@ import Navbar from "@/components/navbar";
             </div>
     </div>
     
-   <Footer/>
+   <Footer />
    </div >
     
   

@@ -2,7 +2,7 @@ import { navItem } from "../portfolio/Constant"
 
 
 
-export default function Navbar(){
+export default function Header(){
     return(
         <header className=" h-[85px] bg-[#FFFFFF]
          drop-shadow-[0_0px_3px_rgba(117,195,16,0.5)] ">
